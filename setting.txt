@@ -1,0 +1,19 @@
+appium
+click on edit configuration
+
+
+
+android studio
+click on config  sdk manager
+android sdk   copy sdk location
+
+environmnet variable
+android_home  paste
+
+
+close it
+again open
+avd manager
+create virtual device
+pixel-3a_api_30
+if any device presesnt click on run

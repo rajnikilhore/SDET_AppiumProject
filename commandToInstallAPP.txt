@@ -1,0 +1,2 @@
+gO TO ANDOID  SETTING ...COPY PATH  LIKE "C:\Users\rkilhore\AppData\Local\Android\Sdk" AND OPEN THAT PATH......GO TO platform-tools AND OPEN CMD
+WRITE COMMAND "adb install  <path of app>
